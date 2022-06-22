@@ -7,3 +7,7 @@
 1. A bash script that displays the contents list of your the directory
 
   * [1-listit](1-listit)
+
+2. A bash script that changes the working directory to the user's home directory
+
+  * [2-bring_me_home](2-bring_me_home)
