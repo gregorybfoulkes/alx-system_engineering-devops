@@ -39,3 +39,7 @@
 9. A bash script that sets the permission mode of `hello` to -rwxr-x-wx.
 
   * [9-John_Doe](9-John_Doe)
+
+10. A bash script that sets the permission mode of `hello` to the same as file `olleh`'s.
+
+  * [10-mirror_permissions](10-mirror_permissions)
