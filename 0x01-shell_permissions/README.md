@@ -48,6 +48,10 @@
 
   * [11-directories_permissions](11-directories_permissions)
 
-12. A bash script that creayes a directory called my_dir with permissions 751 in the working directory.
+12. A bash script that creates a directory called `my_dir` with permissions 751 in the working directory.
 
   * [12-directory_permissions](12-directory_permissions)
+
+13. A bash script that changes the group owner to `school` for the file `hello`.
+
+  * [13-change_group](13-change_group)
