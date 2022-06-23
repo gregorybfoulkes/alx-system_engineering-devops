@@ -19,3 +19,7 @@
 4. A bash script that creates an empty file called `hello`.
 
   * [4-empty](4-empty)
+
+5. A bash script that adds execute permission to the owner of the file `hello`.
+
+  * [5-execute](5-execute)
