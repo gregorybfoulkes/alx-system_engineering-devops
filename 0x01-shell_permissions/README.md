@@ -23,3 +23,7 @@
 5. A bash script that adds execute permission to the owner of the file `hello`.
 
   * [5-execute](5-execute)
+
+6. A bash script that adds execute permission to the owner and group owner, and read permission to other users, to the file `hello`.
+
+  * [6-multiple_permissions](6-multiple_permissions)
