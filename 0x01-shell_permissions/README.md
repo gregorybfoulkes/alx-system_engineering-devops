@@ -15,3 +15,7 @@
 3. A bash script that changes the owner of the file `hello` to the user `betty`.
 
   * [3-new_owner](3-new_owner)
+
+4. A bash script that creates an empty file called `hello`.
+
+  * [4-empty](4-empty)
