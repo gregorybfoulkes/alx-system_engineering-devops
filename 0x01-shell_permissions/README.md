@@ -47,3 +47,7 @@
 11. A bash script that adds execute permission to all subdirectories of the current directory for the owner, group owner and all other users. Regular files permissions are not changed.
 
   * [11-directories_permissions](11-directories_permissions)
+
+12. A bash script that creayes a directory called my_dir with permissions 751 in the working directory.
+
+  * [12-directory_permissions](12-directory_permissions)
