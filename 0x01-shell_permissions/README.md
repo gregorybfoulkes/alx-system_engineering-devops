@@ -35,3 +35,7 @@
 8. A bash script that sets the permission to the file `hello` with the owner and the group having no permission at all, and other users having all the permissions.
 
   * [8-James_Bond](8-James_Bond)
+
+9. A bash script that sets the permission mode of `hello` to -rwxr-x-wx.
+
+  * [9-John_Doe](9-John_Doe)
