@@ -66,4 +66,4 @@
 
 16. A bash script that changes the owner of the file `hello` to 'betty` only if it is owned by the user `guillaume`.
 
-  *[102-if_only](102-if_only)
+  * [102-if_only](102-if_only)
