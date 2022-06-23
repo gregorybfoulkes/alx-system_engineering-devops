@@ -31,3 +31,7 @@
 7. A bash script that adds execution permission to the owner, the group owner and other users, to the file `hello`.
 
   * [7-everybody](7-everybody)
+
+8. A bash script that sets the permission to the file `hello` with the owner and the group having no permission at all, and other users having all the permissions.
+
+  * [8-James_Bond](8-James_Bond)
