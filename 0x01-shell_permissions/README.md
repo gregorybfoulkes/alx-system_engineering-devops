@@ -43,3 +43,7 @@
 10. A bash script that sets the permission mode of `hello` to the same as file `olleh`'s.
 
   * [10-mirror_permissions](10-mirror_permissions)
+
+11. A bash script that adds execute permission to all subdirectories of the current directory for the owner, group owner and all other users. Regular files permissions are not changed.
+
+  * [11-directories_permissions](11-directories_permissions)
