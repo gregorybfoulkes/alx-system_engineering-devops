@@ -7,3 +7,7 @@
 1. A bash script that displays a confused smiley `"(Ôo)'`.
 
   * [1-confused_smiley](1-confused_smiley)
+
+2. A bash script that prints the content of the `/etc/passwd` file.
+
+  * [2-hellofile](2-hellofile) 
