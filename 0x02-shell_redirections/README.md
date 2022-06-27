@@ -26,4 +26,8 @@
 
 6. A bash script that displays the third line of the file `iacta`.
 
-  * [6-third_line](6-third_line) 
+  * [6-third_line](6-third_line)
+
+7. A bash script that creates a file named exactley `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School`.
+
+  * [7-file](7-file) 
