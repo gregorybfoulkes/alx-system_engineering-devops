@@ -42,4 +42,8 @@
 
 10. A bash script that deletes all regular files with a `.js` extension present in the current directory and all its subfolder.
 
-  * [10-no_more_js](10-no_more-js)  
+  * [10-no_more_js](10-no_more-js)
+
+11. A bash script that counts the number of directories and sub-directories in the current directory
+
+  * [11-directories](11-directories)  
