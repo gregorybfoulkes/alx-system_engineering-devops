@@ -22,4 +22,8 @@
 
 5. A bash script that displays the first 10 lines of the file `/etc/passwd`.
 
-  * [5-firstlines](5-firstlines) 
+  * [5-firstlines](5-firstlines)
+
+6. A bash script that displays the third line of the file `iacta`.
+
+  * [6-third_line](6-third_line) 
