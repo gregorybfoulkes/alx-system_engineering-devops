@@ -34,4 +34,8 @@
 
 8. A bash script that writes the result of the command `ls -la` into the file `ls_cwd_content`. If the file exists it is overwritten, if not it creates it.
 
-  * [8-cwd_state](8-cwd_state) 
+  * [8-cwd_state](8-cwd_state)
+
+9. A bash script that duplicates the last line of the file `iacta`.
+
+  * [9-duplicate_last_line](9-duplicate_last_line)  
