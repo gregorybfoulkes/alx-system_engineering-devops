@@ -8,10 +8,14 @@
 
   * [1-confused_smiley](1-confused_smiley)
 
-2. A bash script that prints the content of the `/etc/passwd` file.
+2. A bash script that displays the content of the `/etc/passwd` file.
 
   * [2-hellofile](2-hellofile)
 
 3. A bash script that displays the content of files `/etc/passwd` and `/etc/hosts`.
 
-  * [3-twofiles](3-twofiles) 
+  * [3-twofiles](3-twofiles)
+
+4. A bash script that displays the last 10 lines of the file `/etc/passwd`.
+
+  * [4-lastlines](4-lastlines) 
