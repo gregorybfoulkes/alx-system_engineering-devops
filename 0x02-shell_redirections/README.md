@@ -18,4 +18,8 @@
 
 4. A bash script that displays the last 10 lines of the file `/etc/passwd`.
 
-  * [4-lastlines](4-lastlines) 
+  * [4-lastlines](4-lastlines)
+
+5. A bash script that displays the first 10 lines of the file `/etc/passwd`.
+
+  * [5-firstlines](5-firstlines) 
