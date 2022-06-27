@@ -30,4 +30,8 @@
 
 7. A bash script that creates a file named exactley `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School`.
 
-  * [7-file](7-file) 
+  * [7-file](7-file)
+
+8. A bash script that writes the result of the command `ls -la` into the file `ls_cwd_content`. If the file exists it is overwritten, if not it creates it.
+
+  * [8-cwd_state](8-cwd_state) 
