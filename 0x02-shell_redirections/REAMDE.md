@@ -10,4 +10,8 @@
 
 2. A bash script that prints the content of the `/etc/passwd` file.
 
-  * [2-hellofile](2-hellofile) 
+  * [2-hellofile](2-hellofile)
+
+3. A bash script that displays the content of files `/etc/passwd` and `/etc/hosts`.
+
+  * [3-twofiles](3-twofiles) 
