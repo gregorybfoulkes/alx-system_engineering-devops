@@ -43,3 +43,31 @@
 10. A bash script that prints the result of environment variable `BREATH` to the power of environment variable `LOVE`.
 
   * [10-love_exponent_breath](10-love_exponent_breath)
+
+11. A bash script that converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable `BINARY`.
+
+  * [11-binary_to_decimal](11-binary_to_decimal)
+
+12. A bash script that prints all possible combinations of two letter, except `oo`.
+
+  * [12-combinations](12-combinations)
+
+13. A bash script that prints a number with two decimal places. The number is stored in the environment variable `NUM`.
+
+  * [13-print_float](13-print_float)
+
+14. A bash script that converts a number from base 10 to base 16. The number base 10 is stored in the environment variable `DECIMAL`.
+
+  * [100-decimal_to_hexadecimal](100-decimal_to_hexadecimal)
+
+15. A bash script that encodes and decodes text using rot13 encryption.
+
+  * [101-rot13](101-rot13)
+
+16. A bash script that prints every other line from the input, starting with the first line.
+
+  * [102-odd](102-odd)
+
+17. A bash script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result. The result is in base `bestchol`.
+
+  * [103-water_and_stir](103-water_and_stir)
