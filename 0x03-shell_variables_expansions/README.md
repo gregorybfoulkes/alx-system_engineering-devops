@@ -15,3 +15,7 @@
 3. A bash script that counts the number of directories in the `PATH`.
 
   * [3-paths](3-paths)
+
+4. A bash script that lists enviroment variables.
+
+  * [4-global_variables](4-global_variables)
