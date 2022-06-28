@@ -39,3 +39,7 @@
 9. A bash script that prints the result of environment variable `POWER` divided by environment variable `DIVIDE`.
 
   * [9-divide_and_rule](9-divide_and_rule)
+
+10. A bash script that prints the result of environment variable `BREATH` to the power of environment variable `LOVE`.
+
+  * [10-love_exponent_breath](10-love_exponent_breath)
