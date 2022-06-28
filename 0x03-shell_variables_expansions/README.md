@@ -31,3 +31,7 @@
 7. A bash script that creates a new global variable with the name `BEST` and the value `School`.
 
   * [7-create_global_variable](7-create_global_variable)
+
+8. A bash script that prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`.
+
+  * [8-true_knowledge](8-true_knowledge)
