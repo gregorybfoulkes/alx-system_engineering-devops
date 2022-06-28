@@ -35,3 +35,7 @@
 8. A bash script that prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`.
 
   * [8-true_knowledge](8-true_knowledge)
+
+9. A bash script that prints the result of environment variable `POWER` divided by environment variable `DIVIDE`.
+
+  * [9-divide_and_rule](9-divide_and_rule)
