@@ -27,3 +27,7 @@
 6. A bash script that creates a new local variable with the name `BEST` and the value `School`.
 
   * [6-create_local_variable](6-create_local_variable)
+
+7. A bash script that creates a new global variable with the name `BEST` and the value `School`.
+
+  * [7-create_global_variable](7-create_global_variable)
