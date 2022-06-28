@@ -19,3 +19,11 @@
 4. A bash script that lists enviroment variables.
 
   * [4-global_variables](4-global_variables)
+
+5. A bash script that lists all local variables, environment variables and functions.
+
+  * [5-local_variables](5-local_variables)
+
+6. A bash script that creates a new local variable with the name `BEST` and the value `School`.
+
+  * [6-create_local_variable](6-create_local_variable)
